@@ -7,7 +7,7 @@ header('Content-Type: text/html; charset=UTF-8');
 
 // Подключение к БД
 $db_user = 'u82292';
-$db_pass = 'ВАШ_ПАРОЛЬ';
+$db_pass = '7009026';
 $db_name = 'u82292';
 
 try {
